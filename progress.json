@@ -1,0 +1,57 @@
+{
+  "generated_at": "2026-09-22T05:55:47.194Z",
+  "items": {
+    "problem:41": {
+      "kind": "problem",
+      "id": "41",
+      "title": "Simple Convolutional 2D Layer",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/41",
+      "path": "problems/0041-simple-convolutional-2d-layer",
+      "first_solved_at": "2025-12-07T18:28:45.548Z",
+      "last_pushed_at": "2025-12-07T18:28:45.548Z",
+      "language": "python",
+      "lines": 20
+    },
+    "problem:42": {
+      "kind": "problem",
+      "id": "42",
+      "title": "Implement ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/42",
+      "path": "problems/0042-implement-relu-activation-function",
+      "first_solved_at": "2025-12-07T18:31:20.463Z",
+      "last_pushed_at": "2025-12-07T18:31:20.463Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:23": {
+      "kind": "problem",
+      "id": "23",
+      "title": "Softmax Activation Function Implementation ",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/23",
+      "path": "problems/0023-softmax-activation-function-implementation",
+      "first_solved_at": "2025-12-07T18:38:25.872Z",
+      "last_pushed_at": "2025-12-07T18:38:25.872Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:1": {
+      "kind": "problem",
+      "id": "1",
+      "title": "Matrix-Vector Dot Product",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1",
+      "path": "problems/0001-matrix-vector-dot-product",
+      "first_solved_at": "2025-12-07T21:50:31.471Z",
+      "last_pushed_at": "2025-12-07T21:50:31.471Z",
+      "language": "python",
+      "lines": 14
+    }
+  }
+}
