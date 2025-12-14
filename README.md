@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**5** solved · 5 problems · 0 labs · 0 math
+**6** solved · 5 problems · 1 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -17,6 +17,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2025-12-07 | [solution](problems/0023-softmax-activation-function-implementation) |
 | [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2025-12-07 | [solution](problems/0041-simple-convolutional-2d-layer) |
 | [3D CNN Forward Pass Implementation](https://www.deep-ml.com/problems/230) | hard | 2025-12-11 | [solution](problems/0230-3d-cnn-forward-pass-implementation) |
+
+## Labs
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [MNIST: Build Neural Network from Scratch (NumPy Only)](https://www.deep-ml.com/labs/6) | hard | 2025-12-14 | [solution](labs/0006-mnist-build-neural-network-from-scratch-numpy-only) |
 
 ---
 
