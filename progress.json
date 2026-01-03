@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T05:55:53.316Z",
+  "generated_at": "2026-09-22T05:55:54.966Z",
   "items": {
     "problem:41": {
       "kind": "problem",
@@ -102,6 +102,19 @@
       "path": "problems/0022-sigmoid-activation-function-understanding",
       "first_solved_at": "2026-01-02T14:02:06.394Z",
       "last_pushed_at": "2026-01-02T14:02:06.394Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:56": {
+      "kind": "problem",
+      "id": "56",
+      "title": "KL Divergence Between Two Normal Distributions",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/56",
+      "path": "problems/0056-kl-divergence-between-two-normal-distributions",
+      "first_solved_at": "2026-01-03T12:30:42.956Z",
+      "last_pushed_at": "2026-01-03T12:30:42.956Z",
       "language": "python",
       "lines": 6
     }
