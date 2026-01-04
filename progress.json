@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T05:55:54.966Z",
+  "generated_at": "2026-09-22T05:55:56.421Z",
   "items": {
     "problem:41": {
       "kind": "problem",
@@ -117,6 +117,32 @@
       "last_pushed_at": "2026-01-03T12:30:42.956Z",
       "language": "python",
       "lines": 6
+    },
+    "problem:2": {
+      "kind": "problem",
+      "id": "2",
+      "title": "Transpose of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/2",
+      "path": "problems/0002-transpose-of-a-matrix",
+      "first_solved_at": "2026-01-04T17:51:17.793Z",
+      "last_pushed_at": "2026-01-04T17:51:17.793Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:3": {
+      "kind": "problem",
+      "id": "3",
+      "title": "Reshape Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/3",
+      "path": "problems/0003-reshape-matrix",
+      "first_solved_at": "2026-01-04T20:54:17.957Z",
+      "last_pushed_at": "2026-01-04T20:54:17.957Z",
+      "language": "python",
+      "lines": 10
     }
   }
 }
