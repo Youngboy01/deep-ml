@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**13** solved · 12 problems · 1 labs · 0 math
+**14** solved · 13 problems · 1 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,6 +12,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Calculate 2x2 Matrix Inverse](https://www.deep-ml.com/problems/8) | easy | 2026-01-07 | [solution](problems/0008-calculate-2x2-matrix-inverse) |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2026-01-06 | [solution](problems/0004-calculate-mean-by-row-or-column) |
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2025-12-07 | [solution](problems/0042-implement-relu-activation-function) |
 | [KL Divergence Between Two Normal Distributions](https://www.deep-ml.com/problems/56) | easy | 2026-01-03 | [solution](problems/0056-kl-divergence-between-two-normal-distributions) |
