@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**18** solved · 17 problems · 1 labs · 0 math
+**19** solved · 18 problems · 1 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -19,6 +19,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement the SELU Activation Function](https://www.deep-ml.com/problems/103) | easy | 2026-01-14 | [solution](problems/0103-implement-the-selu-activation-function) |
 | [KL Divergence Between Two Normal Distributions](https://www.deep-ml.com/problems/56) | easy | 2026-01-03 | [solution](problems/0056-kl-divergence-between-two-normal-distributions) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2025-12-07 | [solution](problems/0001-matrix-vector-dot-product) |
+| [Pass@k and Majority Voting Evaluation Metrics](https://www.deep-ml.com/problems/226) | easy | 2026-01-27 | [solution](problems/0226-pass-k-and-majority-voting-evaluation-metrics) |
 | [Poisson Distribution Probability Calculator](https://www.deep-ml.com/problems/81) | easy | 2026-01-14 | [solution](problems/0081-poisson-distribution-probability-calculator) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-01-04 | [solution](problems/0003-reshape-matrix) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2026-01-06 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
