@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**22** solved · 21 problems · 1 labs · 0 math
+**23** solved · 22 problems · 1 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -20,6 +20,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2025-12-07 | [solution](problems/0042-implement-relu-activation-function) |
 | [Implement the SELU Activation Function](https://www.deep-ml.com/problems/103) | easy | 2026-01-14 | [solution](problems/0103-implement-the-selu-activation-function) |
 | [KL Divergence Between Two Normal Distributions](https://www.deep-ml.com/problems/56) | easy | 2026-01-03 | [solution](problems/0056-kl-divergence-between-two-normal-distributions) |
+| [Leaky ReLU Activation Function](https://www.deep-ml.com/problems/44) | easy | 2026-02-17 | [solution](problems/0044-leaky-relu-activation-function) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2025-12-07 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Pass@k and Majority Voting Evaluation Metrics](https://www.deep-ml.com/problems/226) | easy | 2026-01-27 | [solution](problems/0226-pass-k-and-majority-voting-evaluation-metrics) |
 | [Poisson Distribution Probability Calculator](https://www.deep-ml.com/problems/81) | easy | 2026-01-14 | [solution](problems/0081-poisson-distribution-probability-calculator) |
