@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**25** solved · 24 problems · 1 labs · 0 math
+**26** solved · 25 problems · 1 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -14,6 +14,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Calculate 2x2 Matrix Inverse](https://www.deep-ml.com/problems/8) | easy | 2026-01-07 | [solution](problems/0008-calculate-2x2-matrix-inverse) |
 | [Calculate Cosine Similarity Between Vectors](https://www.deep-ml.com/problems/76) | easy | 2026-01-28 | [solution](problems/0076-calculate-cosine-similarity-between-vectors) |
+| [Calculate Jaccard Index for Binary Classification](https://www.deep-ml.com/problems/72) | easy | 2026-03-02 | [solution](problems/0072-calculate-jaccard-index-for-binary-classification) |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2026-01-06 | [solution](problems/0004-calculate-mean-by-row-or-column) |
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-01-18 | [solution](problems/0083-dot-product-calculator) |
 | [Exponential Weighted Average of Rewards](https://www.deep-ml.com/problems/161) | easy | 2026-02-16 | [solution](problems/0161-exponential-weighted-average-of-rewards) |
