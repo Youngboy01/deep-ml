@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**26** solved · 25 problems · 1 labs · 0 math
+**27** solved · 26 problems · 1 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -36,6 +36,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Stratified Train-Test Split](https://www.deep-ml.com/problems/275) | medium | 2026-02-20 | [solution](problems/0275-implement-stratified-train-test-split) |
 | [Overlapping Max Pooling](https://www.deep-ml.com/problems/190) | medium | 2026-02-18 | [solution](problems/0190-overlapping-max-pooling) |
 | [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2025-12-07 | [solution](problems/0041-simple-convolutional-2d-layer) |
+| [Sobel Edge Detection](https://www.deep-ml.com/problems/241) | medium | 2026-03-04 | [solution](problems/0241-sobel-edge-detection) |
 | [3D CNN Forward Pass Implementation](https://www.deep-ml.com/problems/230) | hard | 2025-12-11 | [solution](problems/0230-3d-cnn-forward-pass-implementation) |
 
 ## Labs
