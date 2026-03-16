@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**28** solved · 27 problems · 1 labs · 0 math
+**29** solved · 28 problems · 1 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -35,6 +35,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Vector Norms (L1/L2/L-inf) and the Frobenius Norm](https://www.deep-ml.com/problems/328) | easy | 2026-01-15 | [solution](problems/0328-vector-norms-l1-l2-l-inf-and-the-frobenius-norm) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-01-29 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Implement Stratified Train-Test Split](https://www.deep-ml.com/problems/275) | medium | 2026-02-20 | [solution](problems/0275-implement-stratified-train-test-split) |
+| [MMLU Log-Probability Scoring](https://www.deep-ml.com/problems/316) | medium | 2026-03-16 | [solution](problems/0316-mmlu-log-probability-scoring) |
 | [Overlapping Max Pooling](https://www.deep-ml.com/problems/190) | medium | 2026-02-18 | [solution](problems/0190-overlapping-max-pooling) |
 | [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2025-12-07 | [solution](problems/0041-simple-convolutional-2d-layer) |
 | [Sobel Edge Detection](https://www.deep-ml.com/problems/241) | medium | 2026-03-04 | [solution](problems/0241-sobel-edge-detection) |
