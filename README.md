@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**29** solved · 28 problems · 1 labs · 0 math
+**30** solved · 29 problems · 1 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -34,6 +34,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-01-04 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Vector Norms (L1/L2/L-inf) and the Frobenius Norm](https://www.deep-ml.com/problems/328) | easy | 2026-01-15 | [solution](problems/0328-vector-norms-l1-l2-l-inf-and-the-frobenius-norm) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-01-29 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
+| [Elo Rating System for Model Comparison](https://www.deep-ml.com/problems/315) | medium | 2026-03-17 | [solution](problems/0315-elo-rating-system-for-model-comparison) |
 | [Implement Stratified Train-Test Split](https://www.deep-ml.com/problems/275) | medium | 2026-02-20 | [solution](problems/0275-implement-stratified-train-test-split) |
 | [MMLU Log-Probability Scoring](https://www.deep-ml.com/problems/316) | medium | 2026-03-16 | [solution](problems/0316-mmlu-log-probability-scoring) |
 | [Overlapping Max Pooling](https://www.deep-ml.com/problems/190) | medium | 2026-02-18 | [solution](problems/0190-overlapping-max-pooling) |

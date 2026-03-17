@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T05:56:20.807Z",
+  "generated_at": "2026-09-22T05:56:22.756Z",
   "items": {
     "problem:41": {
       "kind": "problem",
@@ -377,6 +377,19 @@
       "last_pushed_at": "2026-03-16T09:37:20.704Z",
       "language": "python",
       "lines": 46
+    },
+    "problem:315": {
+      "kind": "problem",
+      "id": "315",
+      "title": "Elo Rating System for Model Comparison",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/315",
+      "path": "problems/0315-elo-rating-system-for-model-comparison",
+      "first_solved_at": "2026-03-17T13:12:35.788Z",
+      "last_pushed_at": "2026-03-17T13:12:35.788Z",
+      "language": "python",
+      "lines": 38
     }
   }
 }
