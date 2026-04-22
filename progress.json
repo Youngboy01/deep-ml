@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T05:56:22.756Z",
+  "generated_at": "2026-09-22T05:56:24.280Z",
   "items": {
     "problem:41": {
       "kind": "problem",
@@ -390,6 +390,58 @@
       "last_pushed_at": "2026-03-17T13:12:35.788Z",
       "language": "python",
       "lines": 38
+    },
+    "problem:322": {
+      "kind": "problem",
+      "id": "322",
+      "title": "Bradley-Terry Model for Pairwise Rankings",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/322",
+      "path": "problems/0322-bradley-terry-model-for-pairwise-rankings",
+      "first_solved_at": "2026-04-22T09:30:28.040Z",
+      "last_pushed_at": "2026-04-22T09:30:28.040Z",
+      "language": "python",
+      "lines": 42
+    },
+    "problem:323": {
+      "kind": "problem",
+      "id": "323",
+      "title": "Pairwise Preference Judge for LLM Comparison",
+      "difficulty": "medium",
+      "category": "LLM",
+      "url": "https://www.deep-ml.com/problems/323",
+      "path": "problems/0323-pairwise-preference-judge-for-llm-comparison",
+      "first_solved_at": "2026-04-22T12:23:36.754Z",
+      "last_pushed_at": "2026-04-22T12:23:36.754Z",
+      "language": "python",
+      "lines": 61
+    },
+    "problem:317": {
+      "kind": "problem",
+      "id": "317",
+      "title": "Rubric-Based LLM Judge Evaluation",
+      "difficulty": "medium",
+      "category": "LLM",
+      "url": "https://www.deep-ml.com/problems/317",
+      "path": "problems/0317-rubric-based-llm-judge-evaluation",
+      "first_solved_at": "2026-04-22T15:34:32.444Z",
+      "last_pushed_at": "2026-04-22T15:34:32.444Z",
+      "language": "python",
+      "lines": 47
+    },
+    "problem:293": {
+      "kind": "problem",
+      "id": "293",
+      "title": "Calculate P50/P95/P99 Latency Percentiles",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/293",
+      "path": "problems/0293-calculate-p50-p95-p99-latency-percentiles",
+      "first_solved_at": "2026-04-22T15:52:01.140Z",
+      "last_pushed_at": "2026-04-22T15:52:01.140Z",
+      "language": "python",
+      "lines": 30
     }
   }
 }
