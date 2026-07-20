@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**38** solved · 37 problems · 1 labs · 0 math
+**39** solved · 38 problems · 1 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -40,6 +40,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-01-29 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Elo Rating System for Model Comparison](https://www.deep-ml.com/problems/315) | medium | 2026-03-17 | [solution](problems/0315-elo-rating-system-for-model-comparison) |
 | [Implement Stratified Train-Test Split](https://www.deep-ml.com/problems/275) | medium | 2026-02-20 | [solution](problems/0275-implement-stratified-train-test-split) |
+| [Knowledge Distillation Loss](https://www.deep-ml.com/problems/227) | medium | 2026-07-20 | [solution](problems/0227-knowledge-distillation-loss) |
 | [LoRA: Low-Rank Adaptation Forward Pass](https://www.deep-ml.com/problems/222) | medium | 2026-05-29 | [solution](problems/0222-lora-low-rank-adaptation-forward-pass) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-06-14 | [solution](problems/0009-matrix-times-matrix) |
 | [MMLU Log-Probability Scoring](https://www.deep-ml.com/problems/316) | medium | 2026-03-16 | [solution](problems/0316-mmlu-log-probability-scoring) |
